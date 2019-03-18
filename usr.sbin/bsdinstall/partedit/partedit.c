@@ -113,7 +113,7 @@ main(int argc, const char **argv)
 			return (error);
 		}
 	} else {
-		prompt = "Create partitions for pfSense. No changes will be "
+		prompt = "Create partitions for IN300. No changes will be "
 		    "made until you select Finish.";
 	}
 
